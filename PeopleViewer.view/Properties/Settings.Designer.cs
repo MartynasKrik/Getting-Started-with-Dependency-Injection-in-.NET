@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace PeopleViewer.view.Properties
+namespace PeopleViewer.View.Properties
 {
     
     
